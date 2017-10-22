@@ -100,6 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 
-# actual data and generated files
-dreams.txt
+# generated file from actual data
 lemmatized.txt
