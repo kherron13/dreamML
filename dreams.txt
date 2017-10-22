@@ -1,0 +1,11 @@
+10-20-17SampleEntry
+Dream journal is in this general format. Each entry begins with an identifier in the form of MM-DD-YYTitle. The next line contains a detailed description of everything remembered about the dream. Entries are separated by blank lines. The purpose of this is to uncover commonly occurring themes, which can increase the likelihood of having a lucid dream.
+
+10-21-17AdditionalEntry
+Entries to the dream journal are added in chronological order at the end of the file. The lemmatizing code assumes that new entries are added to the end, so if entries are later modified or added before the last entry, the lemmatized file needs to be deleted so it can be properly recreated.
+
+10-21-17AboutThisSampleFile
+If clustering.py is run using this file, it will crash. Words are only considered features if they occur in 10 or more entries and the parameters for HDBSCAN are tuned for over five years' worth of data.
+
+10-22-17SongLyrics
+In the dark. And I'm right on the middle mark. I'm just in the tier of everything that rides below the surface. And I watch from a distance seventeen. And I'm short of the others' dreams of being golden and on top. It's not what you painted in my head. There's so much there instead of all the colors that I saw. We all are living in a dream, But life ain't what it seems. Oh everything's a mess. And all these sorrows I have seen. They lead me to believe. That everything's a mess. But I wanna dream. I wanna dream. Leave me to dream. In the eyes. Of a teenage crystallized. Oh the prettiest of lights that hang the hallways of the home. And the cries from the strangers out at night. They don't keep us up at night. We have the curtains drawn and closed. We all are living in a dream, But life ain't what it seems. Oh everything's a mess. And all these sorrows I have seen. They lead me to believe. That everything's a mess. But I wanna dream. I wanna dream. Leave me to dream. I know all your reasons. To keep me from seeing. Everything is actually a mess. But now I am leaving. All of us were only dreaming. Everything is actually a mess. We all are living in a dream. But life ain't what it seems. Oh everything's a mess. And all these sorrows I have seen. They lead me to believe. That everything's a mess. But I wanna dream. I wanna dream. Leave me to dream. I wanna dream. I wanna dream. Leave me to dream.
