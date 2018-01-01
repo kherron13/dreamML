@@ -100,5 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-# generated file from actual data
+# generated files from actual data
 lemmatized.txt
+clusters/

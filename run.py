@@ -1,2 +1,0 @@
-import lemmatizing
-import clustering
