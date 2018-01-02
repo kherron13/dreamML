@@ -19,7 +19,7 @@ def main():
         for i, line in enumerate(lemmatized):
             if (i - 1) % 3 == 0:
                 ldreams.append(line)
-    data = cluster(identifiers, ldreams)
+    data = cluster(identifiers, dreams, ldreams)
 
     result_path = os.path.join(os.getcwd(),'clusters')
     if not os.path.exists(result_path):
