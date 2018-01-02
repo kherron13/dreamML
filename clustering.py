@@ -6,7 +6,7 @@ from collections import namedtuple
 
 Data = namedtuple('Data', 'min_samples, feature_counts, vocab, sample_indeces, cluster_count')
 
-def cluster(identifiers, dreams, ldreams):
+def cluster(identifiers, ldreams):
     cv = CountVectorizer(stop_words = 'english', min_df = 10, ngram_range = (1, 4))
     X = TfidfTransformer().fit_transform(cv.fit_transform(ldreams))
     #access words in vocabulary by feature index
